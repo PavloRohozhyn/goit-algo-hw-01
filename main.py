@@ -1,4 +1,7 @@
 # dont touch, magic!
-print('Hello world')
 
+# first print
+print('Hello world')
+# second print
 print('and, bye-bye')
+
