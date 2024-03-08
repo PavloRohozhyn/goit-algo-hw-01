@@ -1,2 +1,3 @@
-### Python Test Repo
-test intro repo
+### Tier 1
+
+homework 1
